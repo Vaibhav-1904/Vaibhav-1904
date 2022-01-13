@@ -47,4 +47,4 @@
 
 [![Vaibhav's github activity graph](https://activity-graph.herokuapp.com/graph?username=Vaibhav-Patel19&theme=rogue)](https://github.com/Vaibhav-1904/github-readme-activity-graph)
 
-#### ✨ [Skyline View](https://skyline.github.com/Vaibhav-1904/2021)
+#### ✨ [Skyline View](https://skyline.github.com/Vaibhav-Patel19/2022)
