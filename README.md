@@ -5,7 +5,7 @@
 - I'm currently working on **ReactJS 👨‍💻.**
 - I'm currently learning and looking forward to collaborate and contribute in Open Source Organization.
 - *Deliver my Best in anything I tend to do 🥇.*
-- [My Portfolio Website](https://vaibhav-1904.github.io/VaibhavPatel/)
+- [My Portfolio Website](https://vaibhav-patel19.github.io/Vaibhav-Patel19/)
 
 ---
 
@@ -45,6 +45,7 @@
 <a href="#"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?logo=github&logoColor=white"></a> 
 <a href="#"><img alt="Heroku" src="https://img.shields.io/badge/Heroku%20-%23430098.svg?logo=heroku&logoColor=white"></a>
 
-[![Vaibhav's github activity graph](https://activity-graph.herokuapp.com/graph?username=Vaibhav-Patel19&theme=rogue)](https://github.com/Vaibhav-1904/github-readme-activity-graph)
+[![Vaibhav's github activity graph](https://activity-graph.herokuapp.com/graph?username=Vaibhav-Patel19&theme=rogue)](https://github.com/Vaibhav-Patel19/github-readme-activity-graph)
+<!-- [![Vaibhav's github activity graph](https://activity-graph.herokuapp.com/graph?username=Vaibhav-Patel19&theme=rogue)](https://github.com/Vaibhav-Patel19/github-readme-activity-graph) -->
 
 #### ✨ [Skyline View](https://skyline.github.com/Vaibhav-Patel19/2022)
