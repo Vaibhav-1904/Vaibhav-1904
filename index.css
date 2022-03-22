@@ -128,12 +128,34 @@ p {
   }
 }
 
+.nav-item-dark {
+  display: none;
+}
+
 .progress-style {
   width: 400px;
 }
 @media (max-width: 412px) {
   .progress-style {
     width: 300px;
+  }
+
+  .nav-item-dark {
+    display: inline;
+    font-size: 24px;
+    color: grey;
+    /* margin-left:120%; */
+    
+  }
+
+  .nav-item-dark > img {
+    width: 40px;
+  }
+
+  .navbar-nav {
+    display: grid;
+    grid-template-columns: 99% 1%;
+    justify-content: space-between;
   }
 }
 .interests .icon-box {
