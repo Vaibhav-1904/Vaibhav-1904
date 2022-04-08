@@ -29,6 +29,7 @@
 ![PHP](https://img.shields.io/badge/-PHP-purple?style=flat-square&logo=php&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
 ![ES6](https://img.shields.io/badge/-ES6-yellow?style=flat-square&logo=es6)
+![React](https://img.shields.io/badge/-react-blue?style=flat-square&logo=react)
 
 ### Libraries & Framework :
 
